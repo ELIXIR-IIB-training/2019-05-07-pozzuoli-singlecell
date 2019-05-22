@@ -8,7 +8,7 @@
 
 [Course website](https://elixir-iib-training.github.io/website/2019/05/07/SingleCell-Pozzuoli.html)
 
-| Day | speaker | lecture  |
+| Day | Speaker | Lecture  |
 |------|-------|-------|
 |1  | Sadet | [V3 with Feature Barcoding](pres/Sadet_v3 with Feature Barcoding_RevA.pdf)  | 
 |3  | Panariello| [Theory refresher and cellranger overview ](pres/Panariello_Theory_refresher_and_cellranger_overview.pdf) | 

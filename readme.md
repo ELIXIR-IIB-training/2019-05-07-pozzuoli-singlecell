@@ -10,7 +10,11 @@
 
 | Day | Speaker | Lecture  |
 |------|-------|-------|
-|1  | Sadet | [V3 with Feature Barcoding](pres/Sadet_v3 with Feature Barcoding_RevA.pdf)  | 
+|1  | Sadet | [V3 with Feature Barcoding](pres/Sadet_v3_with_Feature_Barcoding_RevA.pdf) | 
 |3  | Panariello| [Theory refresher and cellranger overview ](pres/Panariello_Theory_refresher_and_cellranger_overview.pdf) | 
 |3  | Gambardella |[cRNA Clustering and visualization](pres/Gambardella_scRNA_Clustering_and_Visualization.pdf) | 
 |3  | Carissimo | [Single Cell Data Analysis](pres/Carissimo_SC_Analysis.pdf)  | 
+
+
+#### Photos 
+A few photos of the event can be find [here](photo)

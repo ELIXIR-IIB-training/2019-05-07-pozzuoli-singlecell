@@ -16,5 +16,5 @@
 |3  | Carissimo | [Single Cell Data Analysis](pres/Carissimo_SC_Analysis.pdf)  | 
 
 
-#### Photos 
-A few photos of the event can be find [here](photo)
+<> #### Photos 
+<> A few photos of the event can be find [here](photo)
